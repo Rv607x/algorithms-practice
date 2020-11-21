@@ -9,7 +9,6 @@ def fib(n):
     """Returns the nth fibonacci number.
 
     """
-    dict1 = {}
     if n < 0:
         print("Not a fibonacci number")
     elif n == 0:
